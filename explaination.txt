@@ -1,0 +1,11 @@
+In this assignment we went through:
+
+1- We initiated Q matrix for all V's. the value was calculated by the formula, and we iterated through verteces and calculated the Q for each
+
+2- We used the same cost function in the algorithm
+
+3- When collapsing an edge we combined Q1 and Q2 for the new Q' that is the new vertex, and the cost was inserted like the algorithm
+
+4- Most of the collapse edge function that we had was not changed, only some parts.
+
+The hardest part was: understanding the entire data base and implemnting the 40%, because it had a lot of math.
